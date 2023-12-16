@@ -1,0 +1,690 @@
+Success Rate So Far: 3/109 = 2.7522935779816518%
+Success Rate So Far: 3/110 = 2.727272727272727%
+Success Rate So Far: 3/111 = 2.7027027027027026%
+Success Rate So Far: 3/112 = 2.6785714285714284%
+Success Rate So Far: 3/113 = 2.6548672566371683%
+Success Rate So Far: 3/114 = 2.631578947368421%
+Success Rate So Far: 3/115 = 2.608695652173913%
+Success Rate So Far: 3/116 = 2.586206896551724%
+Success Rate So Far: 4/117 = 3.418803418803419%
+Success Rate So Far: 4/118 = 3.389830508474576%
+Success Rate So Far: 4/119 = 3.361344537815126%
+Success Rate So Far: 4/120 = 3.3333333333333335%
+Success Rate So Far: 4/121 = 3.3057851239669422%
+Success Rate So Far: 4/122 = 3.278688524590164%
+Success Rate So Far: 4/123 = 3.2520325203252036%
+Success Rate So Far: 4/124 = 3.225806451612903%
+Success Rate So Far: 4/125 = 3.2%
+Success Rate So Far: 4/126 = 3.1746031746031744%
+Success Rate So Far: 4/127 = 3.149606299212598%
+Success Rate So Far: 5/128 = 3.90625%
+Success Rate So Far: 5/129 = 3.875968992248062%
+Success Rate So Far: 5/130 = 3.8461538461538463%
+Success Rate So Far: 5/131 = 3.816793893129771%
+Success Rate So Far: 5/132 = 3.787878787878788%
+Success Rate So Far: 5/133 = 3.7593984962406015%
+Success Rate So Far: 5/134 = 3.731343283582089%
+Success Rate So Far: 5/135 = 3.7037037037037033%
+Success Rate So Far: 5/136 = 3.6764705882352944%
+Success Rate So Far: 6/137 = 4.37956204379562%
+Success Rate So Far: 6/138 = 4.3478260869565215%
+Success Rate So Far: 6/139 = 4.316546762589928%
+Success Rate So Far: 6/140 = 4.285714285714286%
+Success Rate So Far: 6/141 = 4.25531914893617%
+Success Rate So Far: 7/142 = 4.929577464788732%
+Success Rate So Far: 7/143 = 4.895104895104895%
+Success Rate So Far: 7/144 = 4.861111111111112%
+Success Rate So Far: 7/145 = 4.827586206896552%
+Success Rate So Far: 7/146 = 4.794520547945205%
+Success Rate So Far: 7/147 = 4.761904761904762%
+Success Rate So Far: 7/148 = 4.72972972972973%
+Success Rate So Far: 8/149 = 5.369127516778524%
+Success Rate So Far: 8/150 = 5.333333333333334%
+Success Rate So Far: 8/151 = 5.298013245033113%
+Success Rate So Far: 8/152 = 5.263157894736842%
+Success Rate So Far: 8/153 = 5.228758169934641%
+Success Rate So Far: 8/154 = 5.194805194805195%
+Success Rate So Far: 8/155 = 5.161290322580645%
+Success Rate So Far: 8/156 = 5.128205128205128%
+Success Rate So Far: 8/157 = 5.095541401273886%
+Success Rate So Far: 8/158 = 5.063291139240507%
+Success Rate So Far: 8/159 = 5.031446540880504%
+Success Rate So Far: 8/160 = 5.0%
+Success Rate So Far: 8/161 = 4.968944099378882%
+Success Rate So Far: 8/162 = 4.938271604938271%
+Success Rate So Far: 8/163 = 4.9079754601226995%
+Success Rate So Far: 8/164 = 4.878048780487805%
+Success Rate So Far: 9/165 = 5.454545454545454%
+Success Rate So Far: 9/166 = 5.421686746987952%
+Success Rate So Far: 9/167 = 5.389221556886228%
+Success Rate So Far: 9/168 = 5.357142857142857%
+Success Rate So Far: 9/169 = 5.325443786982249%
+Success Rate So Far: 9/170 = 5.294117647058823%
+Success Rate So Far: 9/171 = 5.263157894736842%
+Success Rate So Far: 9/172 = 5.232558139534884%
+Success Rate So Far: 9/173 = 5.202312138728324%
+Success Rate So Far: 9/174 = 5.172413793103448%
+Success Rate So Far: 9/175 = 5.142857142857142%
+Success Rate So Far: 10/176 = 5.681818181818182%
+Success Rate So Far: 11/177 = 6.214689265536723%
+Success Rate So Far: 11/178 = 6.179775280898876%
+Success Rate So Far: 11/179 = 6.145251396648044%
+Success Rate So Far: 12/180 = 6.666666666666667%
+Success Rate So Far: 12/181 = 6.629834254143646%
+Success Rate So Far: 12/182 = 6.593406593406594%
+Success Rate So Far: 13/183 = 7.103825136612022%
+Success Rate So Far: 14/184 = 7.608695652173914%
+Success Rate So Far: 14/185 = 7.567567567567568%
+Success Rate So Far: 14/186 = 7.526881720430108%
+Success Rate So Far: 14/187 = 7.4866310160427805%
+Success Rate So Far: 14/188 = 7.446808510638298%
+Success Rate So Far: 14/189 = 7.4074074074074066%
+Success Rate So Far: 14/190 = 7.368421052631578%
+Success Rate So Far: 14/191 = 7.329842931937172%
+Success Rate So Far: 14/192 = 7.291666666666667%
+Success Rate So Far: 14/193 = 7.253886010362693%
+Success Rate So Far: 14/194 = 7.216494845360824%
+Success Rate So Far: 14/195 = 7.179487179487179%
+Success Rate So Far: 14/196 = 7.142857142857142%
+Success Rate So Far: 14/197 = 7.1065989847715745%
+Success Rate So Far: 15/198 = 7.575757575757576%
+Success Rate So Far: 15/199 = 7.537688442211055%
+Success Rate So Far: 16/200 = 8.0%
+Success Rate So Far: 16/201 = 7.960199004975125%
+Success Rate So Far: 16/202 = 7.920792079207921%
+Success Rate So Far: 16/203 = 7.8817733990147785%
+Success Rate So Far: 16/204 = 7.8431372549019605%
+Success Rate So Far: 16/205 = 7.804878048780488%
+Success Rate So Far: 16/206 = 7.766990291262135%
+Success Rate So Far: 16/207 = 7.729468599033816%
+Success Rate So Far: 16/208 = 7.6923076923076925%
+Success Rate So Far: 16/209 = 7.655502392344498%
+Success Rate So Far: 16/210 = 7.6190476190476195%
+Success Rate So Far: 16/211 = 7.5829383886255926%
+Success Rate So Far: 16/212 = 7.547169811320755%
+Success Rate So Far: 16/213 = 7.511737089201878%
+Success Rate So Far: 16/214 = 7.476635514018691%
+Success Rate So Far: 16/215 = 7.441860465116279%
+Success Rate So Far: 16/216 = 7.4074074074074066%
+Success Rate So Far: 16/217 = 7.373271889400922%
+Success Rate So Far: 16/218 = 7.339449541284404%
+Success Rate So Far: 16/219 = 7.30593607305936%
+Success Rate So Far: 16/220 = 7.2727272727272725%
+Success Rate So Far: 17/221 = 7.6923076923076925%
+Success Rate So Far: 18/222 = 8.108108108108109%
+Success Rate So Far: 18/223 = 8.071748878923767%
+Success Rate So Far: 18/224 = 8.035714285714286%
+Success Rate So Far: 18/225 = 8.0%
+Success Rate So Far: 18/226 = 7.964601769911504%
+Success Rate So Far: 18/227 = 7.929515418502203%
+Success Rate So Far: 18/228 = 7.894736842105263%
+Success Rate So Far: 18/229 = 7.860262008733625%
+Success Rate So Far: 18/230 = 7.82608695652174%
+Success Rate So Far: 18/231 = 7.792207792207792%
+Success Rate So Far: 19/232 = 8.189655172413794%
+Success Rate So Far: 19/233 = 8.15450643776824%
+Success Rate So Far: 19/234 = 8.11965811965812%
+Success Rate So Far: 19/235 = 8.085106382978724%
+Success Rate So Far: 19/236 = 8.050847457627118%
+Success Rate So Far: 20/237 = 8.438818565400844%
+Success Rate So Far: 20/238 = 8.403361344537815%
+Success Rate So Far: 20/239 = 8.368200836820083%
+Success Rate So Far: 20/240 = 8.333333333333332%
+Success Rate So Far: 20/241 = 8.29875518672199%
+Success Rate So Far: 20/242 = 8.264462809917356%
+Success Rate So Far: 20/243 = 8.23045267489712%
+Success Rate So Far: 20/244 = 8.19672131147541%
+Success Rate So Far: 20/245 = 8.16326530612245%
+Success Rate So Far: 20/246 = 8.130081300813007%
+Success Rate So Far: 21/247 = 8.502024291497975%
+Success Rate So Far: 21/248 = 8.46774193548387%
+Success Rate So Far: 21/249 = 8.433734939759036%
+Success Rate So Far: 21/250 = 8.4%
+Success Rate So Far: 21/251 = 8.366533864541832%
+Success Rate So Far: 21/252 = 8.333333333333332%
+Success Rate So Far: 21/253 = 8.300395256916996%
+Success Rate So Far: 21/254 = 8.267716535433072%
+Success Rate So Far: 22/255 = 8.627450980392156%
+Success Rate So Far: 22/256 = 8.59375%
+Success Rate So Far: 23/257 = 8.949416342412452%
+Success Rate So Far: 24/258 = 9.30232558139535%
+Success Rate So Far: 25/259 = 9.652509652509652%
+Success Rate So Far: 26/260 = 10.0%
+Success Rate So Far: 26/261 = 9.961685823754788%
+Success Rate So Far: 26/262 = 9.923664122137405%
+Success Rate So Far: 26/263 = 9.885931558935361%
+Success Rate So Far: 26/264 = 9.848484848484848%
+Success Rate So Far: 26/265 = 9.811320754716983%
+Success Rate So Far: 27/266 = 10.150375939849624%
+Success Rate So Far: 27/267 = 10.112359550561797%
+Success Rate So Far: 28/268 = 10.44776119402985%
+Success Rate So Far: 29/269 = 10.780669144981413%
+Success Rate So Far: 29/270 = 10.74074074074074%
+Success Rate So Far: 29/271 = 10.70110701107011%
+Success Rate So Far: 29/272 = 10.661764705882353%
+Success Rate So Far: 29/273 = 10.622710622710622%
+Success Rate So Far: 29/274 = 10.583941605839415%
+Success Rate So Far: 29/275 = 10.545454545454545%
+Success Rate So Far: 29/276 = 10.507246376811594%
+Success Rate So Far: 30/277 = 10.830324909747292%
+Success Rate So Far: 30/278 = 10.79136690647482%
+Success Rate So Far: 30/279 = 10.75268817204301%
+Success Rate So Far: 30/280 = 10.714285714285714%
+Success Rate So Far: 30/281 = 10.676156583629894%
+Success Rate So Far: 30/282 = 10.638297872340425%
+Success Rate So Far: 30/283 = 10.60070671378092%
+Success Rate So Far: 30/284 = 10.56338028169014%
+Success Rate So Far: 30/285 = 10.526315789473683%
+Success Rate So Far: 30/286 = 10.48951048951049%
+Success Rate So Far: 30/287 = 10.452961672473867%
+Success Rate So Far: 30/288 = 10.416666666666668%
+Success Rate So Far: 30/289 = 10.380622837370241%
+Success Rate So Far: 30/290 = 10.344827586206897%
+Success Rate So Far: 30/291 = 10.309278350515463%
+Success Rate So Far: 30/292 = 10.273972602739725%
+Success Rate So Far: 30/293 = 10.238907849829351%
+Success Rate So Far: 30/294 = 10.204081632653061%
+Success Rate So Far: 30/295 = 10.16949152542373%
+Success Rate So Far: 30/296 = 10.135135135135135%
+Success Rate So Far: 30/297 = 10.1010101010101%
+Success Rate So Far: 30/298 = 10.06711409395973%
+Success Rate So Far: 30/299 = 10.033444816053512%
+Success Rate So Far: 31/300 = 10.333333333333334%
+Success Rate So Far: 31/301 = 10.299003322259136%
+Success Rate So Far: 31/302 = 10.264900662251655%
+Success Rate So Far: 31/303 = 10.231023102310232%
+Success Rate So Far: 31/304 = 10.197368421052632%
+Success Rate So Far: 31/305 = 10.163934426229508%
+Success Rate So Far: 32/306 = 10.457516339869281%
+Success Rate So Far: 32/307 = 10.423452768729643%
+Success Rate So Far: 32/308 = 10.38961038961039%
+Success Rate So Far: 32/309 = 10.355987055016183%
+Success Rate So Far: 32/310 = 10.32258064516129%
+Success Rate So Far: 32/311 = 10.289389067524116%
+Success Rate So Far: 32/312 = 10.256410256410255%
+Success Rate So Far: 33/313 = 10.543130990415335%
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Success Rate So Far: 33/314 = 10.509554140127388%
+Success Rate So Far: 33/315 = 10.476190476190476%
+Success Rate So Far: 33/316 = 10.443037974683545%
+Success Rate So Far: 34/317 = 10.725552050473187%
+Success Rate So Far: 35/318 = 11.0062893081761%
+Success Rate So Far: 35/319 = 10.9717868338558%
+Success Rate So Far: 35/320 = 10.9375%
+Success Rate So Far: 35/321 = 10.903426791277258%
+Success Rate So Far: 35/322 = 10.869565217391305%
+Success Rate So Far: 35/323 = 10.8359133126935%
+Success Rate So Far: 35/324 = 10.802469135802468%
+Success Rate So Far: 35/325 = 10.76923076923077%
+Success Rate So Far: 35/326 = 10.736196319018406%
+Success Rate So Far: 35/327 = 10.703363914373089%
+Success Rate So Far: 35/328 = 10.670731707317072%
+Success Rate So Far: 36/329 = 10.94224924012158%
+Success Rate So Far: 36/330 = 10.909090909090908%
+Success Rate So Far: 37/331 = 11.178247734138973%
+Success Rate So Far: 38/332 = 11.44578313253012%
+Success Rate So Far: 38/333 = 11.411411411411411%
+Success Rate So Far: 38/334 = 11.377245508982035%
+Success Rate So Far: 38/335 = 11.343283582089553%
+Success Rate So Far: 38/336 = 11.30952380952381%
+Success Rate So Far: 38/337 = 11.275964391691394%
+Success Rate So Far: 38/338 = 11.242603550295858%
+Success Rate So Far: 38/339 = 11.209439528023598%
+Success Rate So Far: 39/340 = 11.470588235294118%
+Success Rate So Far: 39/341 = 11.436950146627565%
+Success Rate So Far: 39/342 = 11.403508771929824%
+Success Rate So Far: 39/343 = 11.370262390670554%
+Success Rate So Far: 39/344 = 11.337209302325581%
+Success Rate So Far: 39/345 = 11.304347826086957%
+Success Rate So Far: 39/346 = 11.271676300578035%
+Success Rate So Far: 39/347 = 11.239193083573488%
+Success Rate So Far: 39/348 = 11.206896551724139%
+Success Rate So Far: 39/349 = 11.174785100286533%
+Success Rate So Far: 39/350 = 11.142857142857142%
+Success Rate So Far: 39/351 = 11.11111111111111%
+Success Rate So Far: 40/352 = 11.363636363636363%
+Success Rate So Far: 40/353 = 11.3314447592068%
+Success Rate So Far: 40/354 = 11.299435028248588%
+Success Rate So Far: 40/355 = 11.267605633802818%
+Success Rate So Far: 40/356 = 11.235955056179774%
+Success Rate So Far: 40/357 = 11.204481792717088%
+Success Rate So Far: 40/358 = 11.1731843575419%
+Success Rate So Far: 40/359 = 11.142061281337048%
+Success Rate So Far: 40/360 = 11.11111111111111%
+Success Rate So Far: 40/361 = 11.080332409972298%
+Success Rate So Far: 40/362 = 11.049723756906078%
+Success Rate So Far: 41/363 = 11.294765840220386%
+Success Rate So Far: 41/364 = 11.263736263736265%
+Success Rate So Far: 41/365 = 11.232876712328768%
+Success Rate So Far: 41/366 = 11.202185792349727%
+Success Rate So Far: 42/367 = 11.444141689373296%
+Success Rate So Far: 42/368 = 11.41304347826087%
+Success Rate So Far: 42/369 = 11.38211382113821%
+Success Rate So Far: 43/370 = 11.621621621621623%
+Success Rate So Far: 43/371 = 11.590296495956872%
+Success Rate So Far: 44/372 = 11.827956989247312%
+Success Rate So Far: 44/373 = 11.796246648793565%
+Success Rate So Far: 44/374 = 11.76470588235294%
+Success Rate So Far: 44/375 = 11.733333333333333%
+Success Rate So Far: 44/376 = 11.702127659574469%
+Success Rate So Far: 44/377 = 11.671087533156498%
+Success Rate So Far: 44/378 = 11.64021164021164%
+Success Rate So Far: 44/379 = 11.609498680738787%
+Success Rate So Far: 44/380 = 11.578947368421053%
+Success Rate So Far: 44/381 = 11.548556430446194%
+Success Rate So Far: 45/382 = 11.780104712041885%
+Success Rate So Far: 46/383 = 12.010443864229766%
+Success Rate So Far: 46/384 = 11.979166666666668%
+Success Rate So Far: 46/385 = 11.948051948051948%
+Success Rate So Far: 46/386 = 11.917098445595855%
+Success Rate So Far: 46/387 = 11.886304909560723%
+Success Rate So Far: 47/388 = 12.11340206185567%
+Success Rate So Far: 48/389 = 12.339331619537274%
+Success Rate So Far: 48/390 = 12.307692307692308%
+Success Rate So Far: 49/391 = 12.531969309462914%
+Success Rate So Far: 49/392 = 12.5%
+Success Rate So Far: 49/393 = 12.46819338422392%
+Success Rate So Far: 49/394 = 12.436548223350254%
+Success Rate So Far: 49/395 = 12.40506329113924%
+Success Rate So Far: 49/396 = 12.373737373737374%
+Success Rate So Far: 49/397 = 12.34256926952141%
+Success Rate So Far: 50/398 = 12.562814070351758%
+Success Rate So Far: 51/399 = 12.781954887218044%
+Success Rate So Far: 52/400 = 13.0%
+Success Rate So Far: 52/401 = 12.967581047381547%
+Success Rate So Far: 53/402 = 13.184079601990051%
+Success Rate So Far: 53/403 = 13.151364764267989%
+Success Rate So Far: 54/404 = 13.366336633663368%
+Success Rate So Far: 54/405 = 13.333333333333334%
+Success Rate So Far: 54/406 = 13.30049261083744%
+Success Rate So Far: 55/407 = 13.513513513513514%
+Success Rate So Far: 55/408 = 13.480392156862745%
+Success Rate So Far: 55/409 = 13.447432762836186%
+Success Rate So Far: 55/410 = 13.414634146341465%
+Success Rate So Far: 55/411 = 13.381995133819952%
+Success Rate So Far: 55/412 = 13.349514563106796%
+Success Rate So Far: 55/413 = 13.317191283292978%
+Success Rate So Far: 55/414 = 13.285024154589372%
+Success Rate So Far: 55/415 = 13.253012048192772%
+Success Rate So Far: 55/416 = 13.221153846153847%
+Success Rate So Far: 55/417 = 13.189448441247004%
+Success Rate So Far: 55/418 = 13.157894736842104%
+Success Rate So Far: 55/419 = 13.126491646778044%
+Success Rate So Far: 55/420 = 13.095238095238097%
+Success Rate So Far: 55/421 = 13.064133016627078%
+Success Rate So Far: 55/422 = 13.033175355450238%
+Success Rate So Far: 55/423 = 13.002364066193852%
+Success Rate So Far: 55/424 = 12.971698113207546%
+Success Rate So Far: 56/425 = 13.176470588235295%
+Success Rate So Far: 56/426 = 13.145539906103288%
+Success Rate So Far: 56/427 = 13.114754098360656%
+Success Rate So Far: 57/428 = 13.317757009345794%
+Success Rate So Far: 57/429 = 13.286713286713287%
+Success Rate So Far: 57/430 = 13.25581395348837%
+Success Rate So Far: 57/431 = 13.225058004640372%
+Success Rate So Far: 57/432 = 13.194444444444445%
+Success Rate So Far: 57/433 = 13.163972286374134%
+Success Rate So Far: 57/434 = 13.13364055299539%
+Success Rate So Far: 57/435 = 13.10344827586207%
+Success Rate So Far: 57/436 = 13.073394495412844%
+Success Rate So Far: 57/437 = 13.043478260869565%
+Success Rate So Far: 57/438 = 13.013698630136986%
+Success Rate So Far: 57/439 = 12.984054669703873%
+Success Rate So Far: 57/440 = 12.954545454545455%
+Success Rate So Far: 57/441 = 12.925170068027212%
+Success Rate So Far: 57/442 = 12.895927601809957%
+Success Rate So Far: 57/443 = 12.866817155756207%
+Success Rate So Far: 58/444 = 13.063063063063062%
+Success Rate So Far: 58/445 = 13.03370786516854%
+Success Rate So Far: 58/446 = 13.004484304932735%
+Success Rate So Far: 58/447 = 12.97539149888143%
+Success Rate So Far: 58/448 = 12.946428571428573%
+Success Rate So Far: 58/449 = 12.91759465478842%
+Success Rate So Far: 59/450 = 13.111111111111112%
+Success Rate So Far: 59/451 = 13.082039911308204%
+Success Rate So Far: 59/452 = 13.053097345132745%
+Success Rate So Far: 59/453 = 13.024282560706402%
+Success Rate So Far: 59/454 = 12.995594713656388%
+Success Rate So Far: 59/455 = 12.967032967032969%
+Success Rate So Far: 59/456 = 12.938596491228072%
+Success Rate So Far: 59/457 = 12.910284463894966%
+Success Rate So Far: 59/458 = 12.882096069868995%
+Success Rate So Far: 59/459 = 12.854030501089325%
+Success Rate So Far: 59/460 = 12.82608695652174%
+Success Rate So Far: 60/461 = 13.015184381778742%
+Success Rate So Far: 60/462 = 12.987012987012985%
+Success Rate So Far: 60/463 = 12.958963282937367%
+Success Rate So Far: 60/464 = 12.931034482758621%
+Success Rate So Far: 60/465 = 12.903225806451612%
+Success Rate So Far: 60/466 = 12.875536480686694%
+Success Rate So Far: 60/467 = 12.84796573875803%
+Success Rate So Far: 60/468 = 12.82051282051282%
+Success Rate So Far: 60/469 = 12.79317697228145%
+Success Rate So Far: 60/470 = 12.76595744680851%
+Success Rate So Far: 60/471 = 12.738853503184714%
+Success Rate So Far: 60/472 = 12.711864406779661%
+Success Rate So Far: 60/473 = 12.684989429175475%
+Success Rate So Far: 60/474 = 12.658227848101266%
+Success Rate So Far: 60/475 = 12.631578947368421%
+Success Rate So Far: 60/476 = 12.605042016806722%
+Success Rate So Far: 60/477 = 12.578616352201259%
+Success Rate So Far: 60/478 = 12.552301255230125%
+Success Rate So Far: 60/479 = 12.526096033402922%
+unable to get function error = (<class 'AttributeError'>, AttributeError("module 'tmp_sol' has no attribute 'largestSumAfterKNegations'"), <traceback object at 0x7ef28851f540>)
+Success Rate So Far: 60/480 = 12.5%
+Success Rate So Far: 60/481 = 12.474012474012476%
+Success Rate So Far: 61/482 = 12.655601659751037%
+Success Rate So Far: 61/483 = 12.629399585921325%
+Success Rate So Far: 61/484 = 12.603305785123966%
+Success Rate So Far: 61/485 = 12.577319587628866%
+Success Rate So Far: 61/486 = 12.551440329218108%
+Success Rate So Far: 61/487 = 12.525667351129362%
+Success Rate So Far: 61/488 = 12.5%
+Success Rate So Far: 62/489 = 12.678936605316974%
+Success Rate So Far: 62/490 = 12.653061224489795%
+Success Rate So Far: 62/491 = 12.627291242362526%
+Success Rate So Far: 62/492 = 12.601626016260163%
+Success Rate So Far: 62/493 = 12.57606490872211%
+Success Rate So Far: 62/494 = 12.550607287449392%
+Success Rate So Far: 63/495 = 12.727272727272727%
+Success Rate So Far: 63/496 = 12.701612903225806%
+Success Rate So Far: 64/497 = 12.877263581488934%
+Success Rate So Far: 64/498 = 12.851405622489958%
+Success Rate So Far: 64/499 = 12.825651302605209%
+Success Rate So Far: 65/500 = 13.0%
+Success Rate So Far: 66/501 = 13.17365269461078%
+Success Rate So Far: 66/502 = 13.147410358565736%
+Success Rate So Far: 67/503 = 13.320079522862823%
+Success Rate So Far: 68/504 = 13.492063492063492%
+Success Rate So Far: 68/505 = 13.465346534653467%
+Success Rate So Far: 69/506 = 13.636363636363635%
+Success Rate So Far: 69/507 = 13.609467455621301%
+Success Rate So Far: 69/508 = 13.582677165354331%
+Success Rate So Far: 69/509 = 13.555992141453832%
+Success Rate So Far: 69/510 = 13.529411764705882%
+Success Rate So Far: 69/511 = 13.50293542074364%
+Success Rate So Far: 69/512 = 13.4765625%
+Success Rate So Far: 69/513 = 13.450292397660817%
+Success Rate So Far: 69/514 = 13.424124513618677%
+Success Rate So Far: 69/515 = 13.398058252427184%
+Success Rate So Far: 69/516 = 13.372093023255813%
+Success Rate So Far: 69/517 = 13.346228239845262%
+Success Rate So Far: 69/518 = 13.320463320463322%
+Success Rate So Far: 69/519 = 13.294797687861271%
+Success Rate So Far: 69/520 = 13.26923076923077%
+Success Rate So Far: 69/521 = 13.24376199616123%
+Success Rate So Far: 69/522 = 13.218390804597702%
+Success Rate So Far: 69/523 = 13.193116634799235%
+Success Rate So Far: 69/524 = 13.16793893129771%
+Success Rate So Far: 69/525 = 13.142857142857142%
+Success Rate So Far: 69/526 = 13.11787072243346%
+Success Rate So Far: 69/527 = 13.092979127134724%
+Success Rate So Far: 69/528 = 13.068181818181818%
+Success Rate So Far: 70/529 = 13.23251417769376%
+Success Rate So Far: 70/530 = 13.20754716981132%
+Success Rate So Far: 70/531 = 13.182674199623351%
+Success Rate So Far: 70/532 = 13.157894736842104%
+Success Rate So Far: 70/533 = 13.133208255159476%
+Success Rate So Far: 71/534 = 13.295880149812733%
+unable to get function error = (<class 'AttributeError'>, AttributeError("module 'tmp_sol' has no attribute 'getRow'"), <traceback object at 0x7ef2881ad7c0>)
+Success Rate So Far: 71/535 = 13.271028037383179%
+Success Rate So Far: 72/536 = 13.432835820895523%
+Success Rate So Far: 73/537 = 13.594040968342643%
+Success Rate So Far: 74/538 = 13.754646840148698%
+Success Rate So Far: 74/539 = 13.729128014842301%
+Success Rate So Far: 74/540 = 13.703703703703704%
+Success Rate So Far: 74/541 = 13.67837338262477%
+Success Rate So Far: 75/542 = 13.837638376383765%
+Success Rate So Far: 75/543 = 13.812154696132598%
+Success Rate So Far: 76/544 = 13.970588235294118%
+Success Rate So Far: 76/545 = 13.944954128440369%
+Success Rate So Far: 77/546 = 14.102564102564102%
+Success Rate So Far: 78/547 = 14.259597806215721%
+Success Rate So Far: 78/548 = 14.233576642335766%
+Success Rate So Far: 78/549 = 14.207650273224044%
+Success Rate So Far: 78/550 = 14.181818181818182%
+Success Rate So Far: 78/551 = 14.156079854809436%
+Success Rate So Far: 78/552 = 14.130434782608695%
+Success Rate So Far: 78/553 = 14.10488245931284%
+Success Rate So Far: 78/554 = 14.079422382671481%
+Success Rate So Far: 78/555 = 14.054054054054054%
+Success Rate So Far: 78/556 = 14.028776978417264%
+Success Rate So Far: 78/557 = 14.003590664272892%
+Success Rate So Far: 78/558 = 13.978494623655912%
+Success Rate So Far: 78/559 = 13.953488372093023%
+Success Rate So Far: 78/560 = 13.928571428571429%
+Success Rate So Far: 79/561 = 14.08199643493761%
+Success Rate So Far: 79/562 = 14.05693950177936%
+Success Rate So Far: 79/563 = 14.031971580817052%
+Success Rate So Far: 79/564 = 14.00709219858156%
+Success Rate So Far: 80/565 = 14.15929203539823%
+Success Rate So Far: 80/566 = 14.13427561837456%
+Success Rate So Far: 81/567 = 14.285714285714285%
+Success Rate So Far: 81/568 = 14.26056338028169%
+Success Rate So Far: 81/569 = 14.235500878734623%
+Success Rate So Far: 82/570 = 14.385964912280702%
+Success Rate So Far: 83/571 = 14.535901926444833%
+Success Rate So Far: 83/572 = 14.51048951048951%
+Success Rate So Far: 83/573 = 14.485165794066319%
+Success Rate So Far: 84/574 = 14.634146341463413%
+Success Rate So Far: 84/575 = 14.608695652173914%
+Success Rate So Far: 84/576 = 14.583333333333334%
+Success Rate So Far: 84/577 = 14.558058925476603%
+Success Rate So Far: 85/578 = 14.705882352941178%
+Success Rate So Far: 85/579 = 14.680483592400693%
+Success Rate So Far: 85/580 = 14.655172413793101%
+Success Rate So Far: 85/581 = 14.629948364888124%
+Success Rate So Far: 86/582 = 14.776632302405499%
+Success Rate So Far: 87/583 = 14.922813036020582%
+Success Rate So Far: 87/584 = 14.897260273972604%
+Success Rate So Far: 88/585 = 15.042735042735043%
+Success Rate So Far: 88/586 = 15.017064846416384%
+Success Rate So Far: 88/587 = 14.991482112436117%
+Success Rate So Far: 88/588 = 14.965986394557824%
+Success Rate So Far: 89/589 = 15.110356536502549%
+Success Rate So Far: 89/590 = 15.084745762711865%
+Success Rate So Far: 89/591 = 15.059221658206429%
+Success Rate So Far: 89/592 = 15.033783783783782%
+Success Rate So Far: 89/593 = 15.008431703204048%
+Success Rate So Far: 90/594 = 15.151515151515152%
+Success Rate So Far: 90/595 = 15.126050420168067%
+Success Rate So Far: 90/596 = 15.100671140939598%
+Success Rate So Far: 90/597 = 15.07537688442211%
+Success Rate So Far: 91/598 = 15.217391304347828%
+Success Rate So Far: 92/599 = 15.358931552587645%
+Success Rate So Far: 92/600 = 15.333333333333332%
+Success Rate So Far: 92/601 = 15.307820299500833%
+Success Rate So Far: 92/602 = 15.282392026578073%
+Success Rate So Far: 92/603 = 15.257048092868988%
+Success Rate So Far: 93/604 = 15.397350993377485%
+Success Rate So Far: 93/605 = 15.37190082644628%
+Success Rate So Far: 94/606 = 15.51155115511551%
+Success Rate So Far: 94/607 = 15.485996705107082%
+Success Rate So Far: 94/608 = 15.460526315789474%
+Success Rate So Far: 94/609 = 15.435139573070607%
+Success Rate So Far: 95/610 = 15.573770491803279%
+Success Rate So Far: 95/611 = 15.548281505728315%
+Success Rate So Far: 95/612 = 15.522875816993464%
+Success Rate So Far: 95/613 = 15.497553017944535%
+Success Rate So Far: 95/614 = 15.472312703583063%
+Success Rate So Far: 96/615 = 15.609756097560975%
+Success Rate So Far: 96/616 = 15.584415584415584%
+Success Rate So Far: 96/617 = 15.559157212317668%
+Success Rate So Far: 96/618 = 15.53398058252427%
+Success Rate So Far: 96/619 = 15.508885298869144%
+Success Rate So Far: 96/620 = 15.483870967741936%
+Success Rate So Far: 96/621 = 15.458937198067632%
+Success Rate So Far: 96/622 = 15.434083601286176%
+Success Rate So Far: 96/623 = 15.409309791332262%
+Success Rate So Far: 96/624 = 15.384615384615385%
+Success Rate So Far: 96/625 = 15.36%
+Success Rate So Far: 96/626 = 15.335463258785943%
+Success Rate So Far: 96/627 = 15.311004784688995%
+Success Rate So Far: 97/628 = 15.445859872611464%
+Success Rate So Far: 97/629 = 15.421303656597773%
+Success Rate So Far: 97/630 = 15.396825396825397%
+Success Rate So Far: 97/631 = 15.372424722662439%
+Success Rate So Far: 97/632 = 15.348101265822786%
+Success Rate So Far: 97/633 = 15.323854660347552%
+Success Rate So Far: 97/634 = 15.29968454258675%
+Success Rate So Far: 97/635 = 15.275590551181104%
+Success Rate So Far: 98/636 = 15.40880503144654%
+Success Rate So Far: 98/637 = 15.384615384615385%
+Success Rate So Far: 98/638 = 15.360501567398119%
+Success Rate So Far: 98/639 = 15.336463223787167%
+Success Rate So Far: 98/640 = 15.312500000000002%
+Success Rate So Far: 98/641 = 15.288611544461778%
+Success Rate So Far: 98/642 = 15.264797507788161%
+Success Rate So Far: 98/643 = 15.241057542768274%
+Success Rate So Far: 98/644 = 15.217391304347828%
+Success Rate So Far: 99/645 = 15.348837209302326%
+Success Rate So Far: 99/646 = 15.325077399380804%
+Success Rate So Far: 99/647 = 15.301391035548686%
+Success Rate So Far: 99/648 = 15.277777777777779%
+Success Rate So Far: 99/649 = 15.254237288135593%
+Success Rate So Far: 99/650 = 15.230769230769232%
+[(4000, False, [False, False, False, False, False]), (4001, False, [False, False, False, False, False]), (4002, False, [False, False, False, False, False]), (4003, False, [False, False, False, False, False]), (4004, False, [False, False, False, False, False]), (4005, False, [False, False, False, False, False]), (4006, False, [False, False, False, False, False]), (4007, False, [False, False, False, False, False]), (4008, False, [False, False, False, False, False]), (4009, False, [False, False, False, False, False]), (4010, False, [False, False, False, False, False]), (4011, False, [False, False, False, False, False]), (4012, False, [False, False, False, False, False]), (4013, False, [False, False, False, False, False]), (4014, False, [False, False, False, False, False]), (4015, False, [False, False, False, False, False]), (4016, False, [False, False, False, False, False]), (4017, False, [False, False, False, False, False]), (4018, False, [False, False, False, False, False]), (4019, False, [False, False, False, False, False]), (4020, False, [False, False, False, False, False]), (4021, False, [False, False, False, False, False]), (4022, False, [False, False, False, False, False]), (4023, False, [False, False, False, False, False]), (4024, False, [False, False, False, False, False]), (4025, False, [False, False, False, False, False]), (4026, False, [False, False, False, False, False]), (4027, False, [False, False, False, False, False]), (4028, False, [False, False, False, False, False]), (4029, False, [False, False, False, False, False]), (4030, False, [False, False, False, False, False]), (4031, False, [False, False, False, False, False]), (4032, True, [False, False, False, True, False]), (4033, False, [False, False, False, False, False]), (4034, False, [False, False, False, False, False]), (4035, False, [False, False, False, False, False]), (4036, False, [False, False, False, False, False]), (4037, False, [False, False, False, False, False]), (4038, False, [False, False, False, False, False]), (4039, False, [False, False, False, False, False]), (4040, False, [False, False, False, False, False]), (4041, False, [False, False, False, False, False]), (4042, False, [False, False, False, False, False]), (4043, False, [False, False, False, False, False]), (4044, False, [False, False, False, False, False]), (4045, False, [False, False, False, False, False]), (4046, False, [False, False, False, False, False]), (4047, False, [False, False, False, False, False]), (4048, False, [False, False, False, False, False]), (4049, False, [False, False, False, False, False]), (4050, False, [False, False, False, False, False]), (4051, False, [False, False, False, False, False]), (4052, False, [False, False, False, False, False]), (4053, False, [False, False, False, False, False]), (4054, False, [False, False, False, False, False]), (4055, False, [False, False, False, False, False]), (4056, False, [False, False, False, False, False]), (4057, False, [False, False, False, False, False]), (4058, False, [False, False, False, False, False]), (4059, False, [False, False, False, False, False]), (4060, False, [False, False, False, False, False]), (4061, False, [False, False, False, False, False]), (4062, False, [False, False, False, False, False]), (4063, False, [False, False, False, False, False]), (4064, False, [False, False, False, False, False]), (4065, False, [False, False, False, False, False]), (4066, False, [False, False, False, False, False]), (4067, False, [False, False, False, False, False]), (4068, False, [False, False, False, False, False]), (4069, False, [False, False, False, False, False]), (4070, False, [False, False, False, False, False]), (4071, False, [False, False, False, False, False]), (4072, True, [True, True, True, True, True]), (4073, False, [False, False, False, False, False]), (4074, False, [False, False, False, False, False]), (4075, False, [False, False, False, False, False]), (4076, False, [False, False, False, False, False]), (4077, False, [False, False, False, False, False]), (4078, False, [False, False, False, False, False]), (4079, False, [False, False, False, False, False]), (4080, False, [False, False, False, False, False]), (4081, False, [False, False, False, False, False]), (4082, False, [False, False, False, False, False]), (4083, False, [False, False, False, False, False]), (4084, False, [False, False, False, False, False]), (4085, False, [False, False, False, False, False]), (4086, True, [False, False, True, False, False]), (4087, False, [False, False, False, False, False]), (4088, False, [False, False, False, False, False]), (4089, False, [False, False, False, False, False]), (4090, False, [False, False, False, False, False]), (4091, False, [False, False, False, False, False]), (4092, False, [False, False, False, False, False]), (4093, False, [False, False, False, False, False]), (4094, False, [False, False, False, False, False]), (4095, False, [False, False, False, False, False]), (4096, False, [False, False, False, False, False]), (4097, False, [False, False, False, False, False]), (4098, False, [False, False, False, False, False]), (4099, False, [False, False, False, False, False]), (4100, False, [False, False, False, False, False]), (4101, False, [False, False, False, False, False]), (4102, False, [False, False, False, False, False]), (4103, False, [False, False, False, False, False]), (4104, False, [False, False, False, False, False]), (4105, False, [False, False, False, False, False]), (4106, False, [False, False, False, False, False]), (4107, False, [False, False, False, False, False]), (4108, False, [False, False, False, False, False]), (4109, False, [False, False, False, False, False]), (4110, False, [False, False, False, False, False]), (4111, False, [False, False, False, False, False]), (4112, False, [False, False, False, False, False]), (4113, False, [False, False, False, False, False]), (4114, False, [False, False, False, False, False]), (4115, False, [False, False, False, False, False]), (4116, True, [True, True, True, False, True]), (4117, False, [False, False, False, False, False]), (4118, False, [False, False, False, False, False]), (4119, False, [False, False, False, False, False]), (4120, False, [False, False, False, False, False]), (4121, False, [False, False, False, False, False]), (4122, False, [False, False, False, False, False]), (4123, False, [False, False, False, False, False]), (4124, False, [False, False, False, False, False]), (4125, False, [False, False, False, False, False]), (4126, False, [False, False, False, False, False]), (4127, True, [False, False, True, False, False]), (4128, False, [False, False, False, False, False]), (4129, False, [False, False, False, False, False]), (4130, False, [False, False, False, False, False]), (4131, False, [False, False, False, False, False]), (4132, False, [False, False, False, False, False]), (4133, False, [False, False, False, False, False]), (4134, False, [False, False, False, False, False]), (4135, False, [False, False, False, False, False]), (4136, True, [True, True, True, True, True]), (4137, False, [False, False, False, False, False]), (4138, False, [False, False, False, False, False]), (4139, False, [False, False, False, False, False]), (4140, False, [False, False, False, False, False]), (4141, True, [True, True, True, True, True]), (4142, False, [False, False, False, False, False]), (4143, False, [False, False, False, False, False]), (4144, False, [False, False, False, False, False]), (4145, False, [False, False, False, False, False]), (4146, False, [False, False, False, False, False]), (4147, False, [False, False, False, False, False]), (4148, True, [False, False, False, True, True]), (4149, False, [False, False, False, False, False]), (4150, False, [False, False, False, False, False]), (4151, False, [False, False, False, False, False]), (4152, False, [False, False, False, False, False]), (4153, False, [False, False, False, False, False]), (4154, False, [False, False, False, False, False]), (4155, False, [False, False, False, False, False]), (4156, False, [False, False, False, False, False]), (4157, False, [False, False, False, False, False]), (4158, False, [False, False, False, False, False]), (4159, False, [False, False, False, False, False]), (4160, False, [False, False, False, False, False]), (4161, False, [False, False, False, False, False]), (4162, False, [False, False, False, False, False]), (4163, False, [False, False, False, False, False]), (4164, True, [True, True, False, False, False]), (4165, False, [False, False, False, False, False]), (4166, False, [False, False, False, False, False]), (4167, False, [False, False, False, False, False]), (4168, False, [False, False, False, False, False]), (4169, False, [False, False, False, False, False]), (4170, False, [False, False, False, False, False]), (4171, False, [False, False, False, False, False]), (4172, False, [False, False, False, False, False]), (4173, False, [False, False, False, False, False]), (4174, False, [False, False, False, False, False]), (4175, True, [False, False, True, False, False]), (4176, True, [False, True, False, False, True]), (4177, False, [False, False, False, False, False]), (4178, False, [False, False, False, False, False]), (4179, True, [False, True, True, True, False]), (4180, False, [False, False, False, False, False]), (4181, False, [False, False, False, False, False]), (4182, True, [False, False, True, True, False]), (4183, True, [False, False, False, True, True]), (4184, False, [False, False, False, False, False]), (4185, False, [False, False, False, False, False]), (4186, False, [False, False, False, False, False]), (4187, False, [False, False, False, False, False]), (4188, False, [False, False, False, False, False]), (4189, False, [False, False, False, False, False]), (4190, False, [False, False, False, False, False]), (4191, False, [False, False, False, False, False]), (4192, False, [False, False, False, False, False]), (4193, False, [False, False, False, False, False]), (4194, False, [False, False, False, False, False]), (4195, False, [False, False, False, False, False]), (4196, False, [False, False, False, False, False]), (4197, True, [False, False, False, True, False]), (4198, False, [False, False, False, False, False]), (4199, True, [False, True, True, True, True]), (4200, False, [False, False, False, False, False]), (4201, False, [False, False, False, False, False]), (4202, False, [False, False, False, False, False]), (4203, False, [False, False, False, False, False]), (4204, False, [False, False, False, False, False]), (4205, False, [False, False, False, False, False]), (4206, False, [False, False, False, False, False]), (4207, False, [False, False, False, False, False]), (4208, False, [False, False, False, False, False]), (4209, False, [False, False, False, False, False]), (4210, False, [False, False, False, False, False]), (4211, False, [False, False, False, False, False]), (4212, False, [False, False, False, False, False]), (4213, False, [False, False, False, False, False]), (4214, False, [False, False, False, False, False]), (4215, False, [False, False, False, False, False]), (4216, False, [False, False, False, False, False]), (4217, False, [False, False, False, False, False]), (4218, False, [False, False, False, False, False]), (4219, False, [False, False, False, False, False]), (4220, True, [False, True, True, False, False]), (4221, True, [True, True, False, True, True]), (4222, False, [False, False, False, False, False]), (4223, False, [False, False, False, False, False]), (4224, False, [False, False, False, False, False]), (4225, False, [False, False, False, False, False]), (4226, False, [False, False, False, False, False]), (4227, False, [False, False, False, False, False]), (4228, False, [False, False, False, False, False]), (4229, False, [False, False, False, False, False]), (4230, False, [False, False, False, False, False]), (4231, True, [False, True, False, False, True]), (4232, False, [False, False, False, False, False]), (4233, False, [False, False, False, False, False]), (4234, False, [False, False, False, False, False]), (4235, False, [False, False, False, False, False]), (4236, True, [True, True, True, False, True]), (4237, False, [False, False, False, False, False]), (4238, False, [False, False, False, False, False]), (4239, False, [False, False, False, False, False]), (4240, False, [False, False, False, False, False]), (4241, False, [False, False, False, False, False]), (4242, False, [False, False, False, False, False]), (4243, False, [False, False, False, False, False]), (4244, False, [False, False, False, False, False]), (4245, False, [False, False, False, False, False]), (4246, True, [False, False, True, False, False]), (4247, False, [False, False, False, False, False]), (4248, False, [False, False, False, False, False]), (4249, False, [False, False, False, False, False]), (4250, False, [False, False, False, False, False]), (4251, False, [False, False, False, False, False]), (4252, False, [False, False, False, False, False]), (4253, False, [False, False, False, False, False]), (4254, True, [False, False, True, True, False]), (4255, False, [False, False, False, False, False]), (4256, True, [True, False, True, False, False]), (4257, True, [True, True, True, True, True]), (4258, True, [False, True, False, False, False]), (4259, True, [False, True, False, False, False]), (4260, False, [False, False, False, False, False]), (4261, False, [False, False, False, False, False]), (4262, False, [False, False, False, False, False]), (4263, False, [False, False, False, False, False]), (4264, False, [False, False, False, False, False]), (4265, True, [True, False, True, True, True]), (4266, False, [False, False, False, False, False]), (4267, True, [True, True, True, True, True]), (4268, True, [True, False, True, True, True]), (4269, False, [False, False, False, False, False]), (4270, False, [False, False, False, False, False]), (4271, False, [False, False, False, False, False]), (4272, False, [False, False, False, False, False]), (4273, False, [False, False, False, False, False]), (4274, False, [False, False, False, False, False]), (4275, False, [False, False, False, False, False]), (4276, True, [True, False, True, False, True]), (4277, False, [False, False, False, False, False]), (4278, False, [False, False, False, False, False]), (4279, False, [False, False, False, False, False]), (4280, False, [False, False, False, False, False]), (4281, False, [False, False, False, False, False]), (4282, False, [False, False, False, False, False]), (4283, False, [False, False, False, False, False]), (4284, False, [False, False, False, False, False]), (4285, False, [False, False, False, False, False]), (4286, False, [False, False, False, False, False]), (4287, False, [False, False, False, False, False]), (4288, False, [False, False, False, False, False]), (4289, False, [False, False, False, False, False]), (4290, False, [False, False, False, False, False]), (4291, False, [False, False, False, False, False]), (4292, False, [False, False, False, False, False]), (4293, False, [False, False, False, False, False]), (4294, False, [False, False, False, False, False]), (4295, False, [False, False, False, False, False]), (4296, False, [False, False, False, False, False]), (4297, False, [False, False, False, False, False]), (4298, False, [False, False, False, False, False]), (4299, True, [False, True, False, True, True]), (4300, False, [False, False, False, False, False]), (4301, False, [False, False, False, False, False]), (4302, False, [False, False, False, False, False]), (4303, False, [False, False, False, False, False]), (4304, False, [False, False, False, False, False]), (4305, True, [True, True, True, True, True]), (4306, False, [False, False, False, False, False]), (4307, False, [False, False, False, False, False]), (4308, False, [False, False, False, False, False]), (4309, False, [False, False, False, False, False]), (4310, False, [False, False, False, False, False]), (4311, False, [False, False, False, False, False]), (4312, True, [False, False, False, True, False]), (4313, False, [False, False, False, False, False]), (4314, False, [False, False, False, False, False]), (4315, False, [False, False, False, False, False]), (4316, True, [False, False, True, False, True]), (4317, True, [True, True, True, True, True]), (4318, False, [False, False, False, False, False]), (4319, False, [False, False, False, False, False]), (4320, False, [False, False, False, False, False]), (4321, False, [False, False, False, False, False]), (4322, False, [False, False, False, False, False]), (4323, False, [False, False, False, False, False]), (4324, False, [False, False, False, False, False]), (4325, False, [False, False, False, False, False]), (4326, False, [False, False, False, False, False]), (4327, False, [False, False, False, False, False]), (4328, True, [True, False, True, True, True]), (4329, False, [False, False, False, False, False]), (4330, True, [False, True, False, True, False]), (4331, True, [True, False, True, False, False]), (4332, False, [False, False, False, False, False]), (4333, False, [False, False, False, False, False]), (4334, False, [False, False, False, False, False]), (4335, False, [False, False, False, False, False]), (4336, False, [False, False, False, False, False]), (4337, False, [False, False, False, False, False]), (4338, False, [False, False, False, False, False]), (4339, True, [False, True, False, False, False]), (4340, False, [False, False, False, False, False]), (4341, False, [False, False, False, False, False]), (4342, False, [False, False, False, False, False]), (4343, False, [False, False, False, False, False]), (4344, False, [False, False, False, False, False]), (4345, False, [False, False, False, False, False]), (4346, False, [False, False, False, False, False]), (4347, False, [False, False, False, False, False]), (4348, False, [False, False, False, False, False]), (4349, False, [False, False, False, False, False]), (4350, False, [False, False, False, False, False]), (4351, True, [True, True, True, True, True]), (4352, False, [False, False, False, False, False]), (4353, False, [False, False, False, False, False]), (4354, False, [False, False, False, False, False]), (4355, False, [False, False, False, False, False]), (4356, False, [False, False, False, False, False]), (4357, False, [False, False, False, False, False]), (4358, False, [False, False, False, False, False]), (4359, False, [False, False, False, False, False]), (4360, False, [False, False, False, False, False]), (4361, False, [False, False, False, False, False]), (4362, True, [False, False, True, False, False]), (4363, False, [False, False, False, False, False]), (4364, False, [False, False, False, False, False]), (4365, False, [False, False, False, False, False]), (4366, True, [True, True, False, False, True]), (4367, False, [False, False, False, False, False]), (4368, False, [False, False, False, False, False]), (4369, True, [True, True, True, False, True]), (4370, False, [False, False, False, False, False]), (4371, True, [False, False, False, True, False]), (4372, False, [False, False, False, False, False]), (4373, False, [False, False, False, False, False]), (4374, False, [False, False, False, False, False]), (4375, False, [False, False, False, False, False]), (4376, False, [False, False, False, False, False]), (4377, False, [False, False, False, False, False]), (4378, False, [False, False, False, False, False]), (4379, False, [False, False, False, False, False]), (4380, False, [False, False, False, False, False]), (4381, True, [False, True, False, False, False]), (4382, True, [True, True, True, True, True]), (4383, False, [False, False, False, False, False]), (4384, False, [False, False, False, False, False]), (4385, False, [False, False, False, False, False]), (4386, False, [False, False, False, False, False]), (4387, True, [True, True, True, True, True]), (4388, True, [False, False, False, True, False]), (4389, False, [False, False, False, False, False]), (4390, True, [True, True, True, False, True]), (4391, False, [False, False, False, False, False]), (4392, False, [False, False, False, False, False]), (4393, False, [False, False, False, False, False]), (4394, False, [False, False, False, False, False]), (4395, False, [False, False, False, False, False]), (4396, False, [False, False, False, False, False]), (4397, True, [True, True, True, True, True]), (4398, True, [True, False, False, False, False]), (4399, True, [False, False, False, True, True]), (4400, False, [False, False, False, False, False]), (4401, True, [True, False, False, False, True]), (4402, False, [False, False, False, False, False]), (4403, True, [True, True, True, True, True]), (4404, False, [False, False, False, False, False]), (4405, False, [False, False, False, False, False]), (4406, True, [True, False, False, False, True]), (4407, False, [False, False, False, False, False]), (4408, False, [False, False, False, False, False]), (4409, False, [False, False, False, False, False]), (4410, False, [False, False, False, False, False]), (4411, False, [False, False, False, False, False]), (4412, False, [False, False, False, False, False]), (4413, False, [False, False, False, False, False]), (4414, False, [False, False, False, False, False]), (4415, False, [False, False, False, False, False]), (4416, False, [False, False, False, False, False]), (4417, False, [False, False, False, False, False]), (4418, False, [False, False, False, False, False]), (4419, False, [False, False, False, False, False]), (4420, False, [False, False, False, False, False]), (4421, False, [False, False, False, False, False]), (4422, False, [False, False, False, False, False]), (4423, False, [False, False, False, False, False]), (4424, True, [False, False, True, False, True]), (4425, False, [False, False, False, False, False]), (4426, False, [False, False, False, False, False]), (4427, True, [True, True, False, False, True]), (4428, False, [False, False, False, False, False]), (4429, False, [False, False, False, False, False]), (4430, False, [False, False, False, False, False]), (4431, False, [False, False, False, False, False]), (4432, False, [False, False, False, False, False]), (4433, False, [False, False, False, False, False]), (4434, False, [False, False, False, False, False]), (4435, False, [False, False, False, False, False]), (4436, False, [False, False, False, False, False]), (4437, False, [False, False, False, False, False]), (4438, False, [False, False, False, False, False]), (4439, False, [False, False, False, False, False]), (4440, False, [False, False, False, False, False]), (4441, False, [False, False, False, False, False]), (4442, False, [False, False, False, False, False]), (4443, True, [True, False, True, False, False]), (4444, False, [False, False, False, False, False]), (4445, False, [False, False, False, False, False]), (4446, False, [False, False, False, False, False]), (4447, False, [False, False, False, False, False]), (4448, False, [False, False, False, False, False]), (4449, True, [True, False, False, False, False]), (4450, False, [False, False, False, False, False]), (4451, False, [False, False, False, False, False]), (4452, False, [False, False, False, False, False]), (4453, False, [False, False, False, False, False]), (4454, False, [False, False, False, False, False]), (4455, False, [False, False, False, False, False]), (4456, False, [False, False, False, False, False]), (4457, False, [False, False, False, False, False]), (4458, False, [False, False, False, False, False]), (4459, False, [False, False, False, False, False]), (4460, True, [False, True, True, True, False]), (4461, False, [False, False, False, False, False]), (4462, False, [False, False, False, False, False]), (4463, False, [False, False, False, False, False]), (4464, False, [False, False, False, False, False]), (4465, False, [False, False, False, False, False]), (4466, False, [False, False, False, False, False]), (4467, False, [False, False, False, False, False]), (4468, False, [False, False, False, False, False]), (4469, False, [False, False, False, False, False]), (4470, False, [False, False, False, False, False]), (4471, False, [False, False, False, False, False]), (4472, False, [False, False, False, False, False]), (4473, False, [False, False, False, False, False]), (4474, False, [False, False, False, False, False]), (4475, False, [False, False, False, False, False]), (4476, False, [False, False, False, False, False]), (4477, False, [False, False, False, False, False]), (4478, False, [False, False, False, False, False]), (4479, False, [False, False, False, False, False]), (4480, False, [False, False, False, False, False]), (4481, True, [False, True, True, True, False]), (4482, False, [False, False, False, False, False]), (4483, False, [False, False, False, False, False]), (4484, False, [False, False, False, False, False]), (4485, False, [False, False, False, False, False]), (4486, False, [False, False, False, False, False]), (4487, False, [False, False, False, False, False]), (4488, True, [False, False, True, True, True]), (4489, False, [False, False, False, False, False]), (4490, False, [False, False, False, False, False]), (4491, False, [False, False, False, False, False]), (4492, False, [False, False, False, False, False]), (4493, False, [False, False, False, False, False]), (4494, True, [True, True, False, True, False]), (4495, False, [False, False, False, False, False]), (4496, True, [False, False, False, False, True]), (4497, False, [False, False, False, False, False]), (4498, False, [False, False, False, False, False]), (4499, True, [True, False, True, True, False]), (4500, True, [False, False, True, False, True]), (4501, False, [False, False, False, False, False]), (4502, True, [True, True, True, False, True]), (4503, True, [False, False, True, False, True]), (4504, False, [False, False, False, False, False]), (4505, True, [True, True, True, True, True]), (4506, False, [False, False, False, False, False]), (4507, False, [False, False, False, False, False]), (4508, False, [False, False, False, False, False]), (4509, False, [False, False, False, False, False]), (4510, False, [False, False, False, False, False]), (4511, False, [False, False, False, False, False]), (4512, False, [False, False, False, False, False]), (4513, False, [False, False, False, False, False]), (4514, False, [False, False, False, False, False]), (4515, False, [False, False, False, False, False]), (4516, False, [False, False, False, False, False]), (4517, False, [False, False, False, False, False]), (4518, False, [False, False, False, False, False]), (4519, False, [False, False, False, False, False]), (4520, False, [False, False, False, False, False]), (4521, False, [False, False, False, False, False]), (4522, False, [False, False, False, False, False]), (4523, False, [False, False, False, False, False]), (4524, False, [False, False, False, False, False]), (4525, False, [False, False, False, False, False]), (4526, False, [False, False, False, False, False]), (4527, False, [False, False, False, False, False]), (4528, True, [True, True, True, True, True]), (4529, False, [False, False, False, False, False]), (4530, False, [False, False, False, False, False]), (4531, False, [False, False, False, False, False]), (4532, False, [False, False, False, False, False]), (4533, True, [False, False, False, False, True]), (4534, False, [False, False, False, False, False]), (4535, True, [True, False, False, False, False]), (4536, True, [True, True, True, True, True]), (4537, True, [False, False, True, False, False]), (4538, False, [False, False, False, False, False]), (4539, False, [False, False, False, False, False]), (4540, False, [False, False, False, False, False]), (4541, True, [True, False, False, True, True]), (4542, False, [False, False, False, False, False]), (4543, True, [False, False, False, True, True]), (4544, False, [False, False, False, False, False]), (4545, True, [True, False, False, False, True]), (4546, True, [True, True, True, True, True]), (4547, False, [False, False, False, False, False]), (4548, False, [False, False, False, False, False]), (4549, False, [False, False, False, False, False]), (4550, False, [False, False, False, False, False]), (4551, False, [False, False, False, False, False]), (4552, False, [False, False, False, False, False]), (4553, False, [False, False, False, False, False]), (4554, False, [False, False, False, False, False]), (4555, False, [False, False, False, False, False]), (4556, False, [False, False, False, False, False]), (4557, False, [False, False, False, False, False]), (4558, False, [False, False, False, False, False]), (4559, False, [False, False, False, False, False]), (4560, True, [False, False, True, True, True]), (4561, False, [False, False, False, False, False]), (4562, False, [False, False, False, False, False]), (4563, False, [False, False, False, False, False]), (4564, True, [True, False, False, False, False]), (4565, False, [False, False, False, False, False]), (4566, True, [True, True, False, False, False]), (4567, False, [False, False, False, False, False]), (4568, False, [False, False, False, False, False]), (4569, True, [False, False, False, False, True]), (4570, True, [False, False, False, False, True]), (4571, False, [False, False, False, False, False]), (4572, False, [False, False, False, False, False]), (4573, True, [False, False, False, False, True]), (4574, False, [False, False, False, False, False]), (4575, False, [False, False, False, False, False]), (4576, False, [False, False, False, False, False]), (4577, True, [True, True, True, True, True]), (4578, False, [False, False, False, False, False]), (4579, False, [False, False, False, False, False]), (4580, False, [False, False, False, False, False]), (4581, True, [True, True, True, True, True]), (4582, True, [False, True, True, True, True]), (4583, False, [False, False, False, False, False]), (4584, True, [True, False, False, False, False]), (4585, False, [False, False, False, False, False]), (4586, False, [False, False, False, False, False]), (4587, False, [False, False, False, False, False]), (4588, True, [True, True, True, True, True]), (4589, False, [False, False, False, False, False]), (4590, False, [False, False, False, False, False]), (4591, False, [False, False, False, False, False]), (4592, False, [False, False, False, False, False]), (4593, True, [False, False, False, True, False]), (4594, False, [False, False, False, False, False]), (4595, False, [False, False, False, False, False]), (4596, False, [False, False, False, False, False]), (4597, True, [False, True, False, False, False]), (4598, True, [True, False, False, False, True]), (4599, False, [False, False, False, False, False]), (4600, False, [False, False, False, False, False]), (4601, False, [False, False, False, False, False]), (4602, False, [False, False, False, False, False]), (4603, True, [False, False, False, False, True]), (4604, False, [False, False, False, False, False]), (4605, True, [False, False, True, False, False]), (4606, False, [False, False, False, False, False]), (4607, False, [False, False, False, False, False]), (4608, False, [False, False, False, False, False]), (4609, True, [True, False, True, False, True]), (4610, False, [False, False, False, False, False]), (4611, False, [False, False, False, False, False]), (4612, False, [False, False, False, False, False]), (4613, False, [False, False, False, False, False]), (4614, True, [True, True, False, False, False]), (4615, False, [False, False, False, False, False]), (4616, False, [False, False, False, False, False]), (4617, False, [False, False, False, False, False]), (4618, False, [False, False, False, False, False]), (4619, False, [False, False, False, False, False]), (4620, False, [False, False, False, False, False]), (4621, False, [False, False, False, False, False]), (4622, False, [False, False, False, False, False]), (4623, False, [False, False, False, False, False]), (4624, False, [False, False, False, False, False]), (4625, False, [False, False, False, False, False]), (4626, False, [False, False, False, False, False]), (4627, True, [False, True, False, False, False]), (4628, False, [False, False, False, False, False]), (4629, False, [False, False, False, False, False]), (4630, False, [False, False, False, False, False]), (4631, False, [False, False, False, False, False]), (4632, False, [False, False, False, False, False]), (4633, False, [False, False, False, False, False]), (4634, False, [False, False, False, False, False]), (4635, True, [False, True, False, True, True]), (4636, False, [False, False, False, False, False]), (4637, False, [False, False, False, False, False]), (4638, False, [False, False, False, False, False]), (4639, False, [False, False, False, False, False]), (4640, False, [False, False, False, False, False]), (4641, False, [False, False, False, False, False]), (4642, False, [False, False, False, False, False]), (4643, False, [False, False, False, False, False]), (4644, True, [True, True, True, True, True]), (4645, False, [False, False, False, False, False]), (4646, False, [False, False, False, False, False]), (4647, False, [False, False, False, False, False]), (4648, False, [False, False, False, False, False]), (4649, False, [False, False, False, False, False])]
+Computing pass@k metric for multiple generations...
+{'pass@1': 0.08123076923076923, 'pass@2': 0.11138461538461537, 'pass@3': 0.13015384615384618, 'pass@4': 0.14307692307692307, 'pass@5': 0.1523076923076923}
+{'avg_accuracy': None, 'strict_accuracy': None, 'pass_at_k': {'pass@1': 0.08123076923076923, 'pass@2': 0.11138461538461537, 'pass@3': 0.13015384615384618, 'pass@4': 0.14307692307692307, 'pass@5': 0.1523076923076923}}

@@ -1,0 +1,10 @@
+torch
+datasets
+transformers
+peft
+accelerate
+optimum
+evaluate
+pyext
+--extra-index-url https://huggingface.github.io/autogptq-index/whl/cu118/
+auto-gptq
