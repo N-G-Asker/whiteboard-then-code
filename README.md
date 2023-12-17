@@ -1,4 +1,9 @@
-# Whiteboard-Then-Code: Repository Overview
+# Whiteboard-Then-Code
+
+## Read the Paper
+This framework is the culmination of a semester-long independent project for the course _Natural Language Generation and Summarization_ (Fall 2023), a graduate seminar in the Computer Science department at Columbia University taught by Professor Kathleen McKeown. Read the (unpublished) research paper [here](whiteboard-then-code_research-paper.pdf).
+
+## Repository Overview
 
 There are three top-level directories in this project:
 
